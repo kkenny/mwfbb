@@ -4,3 +4,4 @@ Gemfile.lock
 _site/
 script/
 vendor/
+_sass/
