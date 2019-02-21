@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #000000;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  background-color: #000000;
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-image: url(https://cdn2.sportngin.com/attachments/background_graphic/1951-108439915/NewBackground-base2-fade.jpg);
+}
